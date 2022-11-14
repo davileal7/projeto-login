@@ -56,8 +56,15 @@ section#login > div#formulario {
 
 }
 
+div#formulario > h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
 
-/*
+div#formulario > p {
+    font-size: 0.8em;
+}
+
 input#email {
     font-size: 20px;
     width: 250px;
@@ -91,4 +98,4 @@ input#validar:hover {
     color: white;
     cursor: pointer;
     
-} */
+} 
