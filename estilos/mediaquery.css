@@ -11,8 +11,7 @@ Grandes telas: acima de 1200px
 
 
 /* Tablet */
-@media screen and (min-width: 768px) and (max-width: 992px){
-    
+@media screen and (min-width: 768px) and (max-width: 992px){   
     section#login {
         width: 80vw;
        
@@ -31,13 +30,12 @@ Grandes telas: acima de 1200px
         float: right;
         width: 40%;
     }
-
 }
 
 /*tela grande*/
 @media screen and (min-width: 992px) {
     body{ 
-        background-image: linear-gradient(#756A66,#F7A98D,#F5DDD5,#75412E,#C2AFA9);
+        background-image: linear-gradient(#754B27,#F59D51,#75412E,#F59D51);
     }
     
     section#login {
